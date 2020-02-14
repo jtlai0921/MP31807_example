@@ -1,0 +1,5 @@
+INDEX VERSION 1.130+D:\進行中書籍\博碩_2018資料結構使用Java9\範例檔\ch05\.metadata\.plugins\org.eclipse.jdt.core
+3070103038.index
+1492151506.index
+3331651953.index
+804740164.index
